@@ -2,7 +2,7 @@
 - 👀 I’m interested in marketing
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on good project
-- 📫 Get in touch with me with Telegram @evseredyn
+- 📫 Get in touch with me by Telegram @evseredyn
 
 <!---
 Evseredyn/Evseredyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
